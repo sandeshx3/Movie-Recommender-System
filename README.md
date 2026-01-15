@@ -4,7 +4,7 @@ A sophisticated Content-Based Movie Recommender built using Machine Learning, St
 🌍 Live Link: https://movie-recommender-system-svly.onrender.com/
 
 📌 Project Overview
-This system is designed to help users discover new movies based on their existing favorites. By leveraging Natural Language Processing (NLP), we transform movie descriptions and metadata into high-dimensional vectors to find the closest matches in our database of 5,000+ films.
+This system is designed to help users discover new movies based on their existing favorites. By leveraging Natural Language Processing (NLP), I transform movie descriptions and metadata into high-dimensional vectors to find the closest matches in our database of aroud 5,000 films.
 
 ✨ Key Features
 Intelligent Recommendations: Suggests the top 5 most similar movies based on content tags.
@@ -73,4 +73,8 @@ Build Command: pip install -r requirements.txt
 Start Command: streamlit run app.py
 
 Note: The system uses Git LFS pointers to ensure the large similarity matrix is successfully pulled into the Render environment during the build process.
+
+### 📺 Reference Video
+[![CampusX Movie Recommender](https://img.youtube.com/vi/1xtrIEwY_zY/0.jpg)](https://www.youtube.com/watch?v=1xtrIEwY_zY)
+*Credits to CampusX for the project tutorial.*
 
